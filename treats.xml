@@ -1,0 +1,26 @@
+<store>
+	<treat>
+		<series>Series 1</series>
+		<category>Category 1</category>
+		<name>boo</name>
+		<value>1000</value>
+	</treat>
+	<treat>
+		<series>Series 1</series>
+		<category>Category 2</category>
+		<name>boo</name>
+		<value>500</value>
+	</treat>
+	<treat>
+		<series>Series 2</series>
+		<category>Category 1</category>
+		<name>foo</name>
+		<value>2000</value>
+	</treat>
+	<treat>
+		<series>Series 2</series>
+		<category>Category 2</category>
+		<name>foo</name>
+		<value>400</value>
+	</treat>
+</store>
